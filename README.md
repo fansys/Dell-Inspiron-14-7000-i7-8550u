@@ -1,8 +1,11 @@
 # Dell-Inspiron-14-7000-i7-8550u
 戴尔燃7000 II 7472
 
-无线网卡更换为bcm94352z
-亮度调节和声卡使用ALCPlugFix解决
+OpenCore引导
 
-疑似问题：
-    插上耳机一段时间后声音会变成噪音，待详细确认
+无线网卡更换为bcm94352z
+
+--- 
+
+### Reference
+[https://github.com/ic005k/DELL7472](https://github.com/ic005k/DELL7472)

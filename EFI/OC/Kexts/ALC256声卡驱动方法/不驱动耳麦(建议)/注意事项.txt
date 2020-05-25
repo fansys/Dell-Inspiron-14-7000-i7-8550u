@@ -1,0 +1,1 @@
+注意：CodecCommander.kext必须安装到LE目录才有效，否则不灵。音频ID选56（0x38000000)。
